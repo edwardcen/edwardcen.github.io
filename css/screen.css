@@ -39,7 +39,7 @@ a {
 }
 
 a:hover {
-  color: black;
+  color: #0a6e48;
 }
 
 /*a:visited {
@@ -94,12 +94,12 @@ ul.posts {
 }
 
   .site .title a {
-    color: #00b570;
+    color: #007f4f;
     text-decoration: none;
   }
 
   .site .title a:hover {
-    color: black;
+    color: #0a6e48;
   }
 
   .site .title a.extra {
@@ -118,7 +118,7 @@ ul.posts {
 
   .site .footer {
     font-size: 80%;
-    color: black;
+    color: #0a6e48;
     border-top: 4px solid #eee;
     margin-top: 2em;
     overflow: hidden;
