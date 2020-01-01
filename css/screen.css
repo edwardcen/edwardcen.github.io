@@ -16,7 +16,7 @@ html, body {
 }
 
 body {
-  background-color: #beebee;
+  background-color: #f7f9ff;
   font: 14px 'Roboto', sans-serif;
   *font-size: small;
   text-align: center;
@@ -94,7 +94,7 @@ ul.posts {
 }
 
   .site .title a {
-    color: #007f4f;
+    color: #00b570;
     text-decoration: none;
   }
 
