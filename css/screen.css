@@ -17,7 +17,7 @@ html, body {
 
 body {
   background-color: #fffef7;
-  font: 13.34px helvetica, arial, clean, sans-serif;
+  font: 14px 'Roboto', sans-serif;
   *font-size: small;
   text-align: center;
 }
@@ -68,7 +68,7 @@ ul.posts {
 
   ul.posts span {
     color: #919191;
-    font-family: Monaco, "Courier New", monospace;
+    font-family: 'Roboto', sans-serif;
     font-size: 80%;
   }
 
@@ -89,6 +89,7 @@ ul.posts {
 .title {
   color: #007f4f;
   font-weight: bold;
+  font-size: 200%;
   margin-bottom: 2em;
 }
 
