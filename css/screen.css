@@ -35,15 +35,15 @@ p {
 }
 
 a {
-  color: #005475;
+  color: #004d2f;
 }
 
 a:hover {
-  color: black;
+  color: #007f4f;
 }
 
 a:visited {
-  color: #7093a1;
+  color: #004d2f;
 }
 
 table {
@@ -118,7 +118,7 @@ ul.posts {
 
   .site .footer {
     font-size: 80%;
-    color: #919191;
+    color: #004d2f;
     border-top: 4px solid #eee;
     margin-top: 2em;
     overflow: hidden;
@@ -130,7 +130,7 @@ ul.posts {
     }
 
       .site .footer .contact a {
-        color: #8085C1;
+        color: #919191;
       }
 
     .site .footer .rss {
