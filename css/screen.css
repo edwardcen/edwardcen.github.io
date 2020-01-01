@@ -35,16 +35,16 @@ p {
 }
 
 a {
-  color: #004d2f;
+  color: #00b570;
 }
 
 a:hover {
-  color: #007f4f;
+  color: black;
 }
 
-a:visited {
+/*a:visited {
   color: #004d2f;
-}
+}*/
 
 table {
   font-size: inherit;
@@ -99,7 +99,7 @@ ul.posts {
   }
 
   .site .title a:hover {
-    color: #004d2f;
+    color: black;
   }
 
   .site .title a.extra {
@@ -118,7 +118,7 @@ ul.posts {
 
   .site .footer {
     font-size: 80%;
-    color: #004d2f;
+    color: black;
     border-top: 4px solid #eee;
     margin-top: 2em;
     overflow: hidden;
