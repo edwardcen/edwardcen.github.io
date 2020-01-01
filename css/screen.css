@@ -68,7 +68,7 @@ ul.posts {
 
   ul.posts span {
     color: #919191;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Mono', monospace;
     font-size: 80%;
   }
 
@@ -89,8 +89,8 @@ ul.posts {
 .title {
   color: #007f4f;
   font-weight: bold;
-  font-size: 200%;
-  margin-bottom: 2em;
+  font-size: 150%;
+  margin-bottom: 1em;
 }
 
   .site .title a {
