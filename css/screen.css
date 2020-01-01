@@ -16,7 +16,7 @@ html, body {
 }
 
 body {
-  background-color: #fffef7;
+  background-color: #beebee;
   font: 14px 'Roboto', sans-serif;
   *font-size: small;
   text-align: center;
@@ -35,7 +35,7 @@ p {
 }
 
 a {
-  color: #00b570;
+  color: #007f4f;
 }
 
 a:hover {
@@ -87,7 +87,7 @@ ul.posts {
 }
 
 .title {
-  color: #007f4f;
+  color: #00b570;
   font-weight: bold;
   font-size: 150%;
   margin-bottom: 1em;
